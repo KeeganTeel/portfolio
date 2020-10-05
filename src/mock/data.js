@@ -32,7 +32,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'grove.jpg',
     title: 'Aurora Grove',
-    info: 'Camping website project done in Bootstrap 4',
+    info: 'Camping website project done in Bootstrap 4.',
     info2: '',
     url: 'https://wonderful-galileo-ec167e.netlify.app/',
     repo: 'https://github.com/KeeganTeel/aurora_grove', // if no repo, the button will not show up
@@ -41,7 +41,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'robo.jpg',
     title: 'RoboFriends',
-    info: 'Searchable contact rolodex built with React',
+    info: 'Searchable contact rolodex built with React.',
     info2: '',
     url: 'https://amazing-curran-34971d.netlify.app/',
     repo: 'https://github.com/KeeganTeel/robofriends', // if no repo, the button will not show up
