@@ -51,7 +51,7 @@ export const projectsData = [
     img: 'crwn.JPG',
     title: 'CRWN Clothing',
     info:
-      'E-commerce clothing website built in React that has a fully functional shopping cart and check out feature with Stripe, as well as Google Sign In.',
+      '(Please note app takes about 10 seconds to load) E-commerce clothing website built in React that has a fully functional shopping cart and check out feature with Stripe, as well as Google Sign In.',
     info2: '',
     url: 'https://crwn1.herokuapp.com/',
     repo: 'https://github.com/KeeganTeel/crwn-clothing', // if no repo, the button will not show up // if no repo, the button will not show up
