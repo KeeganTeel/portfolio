@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'After graduation I took some time off of programming to pursue other career paths that have made me a more well rounded individual. After working in the education and healthcare fields, I have realized that programming is my true passion and something I want to pursue full time.',
   paragraphThree: 'Thank you for checking out my site and projects!',
-  resume: 'https://my.indeed.com/p/keegant-mc3opvi', // if no resume, the button will not show up // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1Bz5TCKikemPHDxqha6J3391Hnpjd-s3L/view?ths=true', // if no resume, the button will not show up // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
